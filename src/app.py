@@ -65,6 +65,45 @@ activities = {
         "max_participants": 16,
         "participants": []
     },
+    # Additional sports activities
+    "Volleyball Team": {
+        "description": "Practice volleyball and compete in inter-school tournaments",
+        "schedule": "Mondays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 14,
+        "participants": []
+    },
+    "Track and Field": {
+        "description": "Train for running, jumping, and throwing events",
+        "schedule": "Tuesdays and Fridays, 3:00 PM - 4:30 PM",
+        "max_participants": 25,
+        "participants": []
+    },
+    # Additional artistic activities
+    "Photography Club": {
+        "description": "Learn photography techniques and participate in photo walks",
+        "schedule": "Wednesdays, 2:30 PM - 4:00 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Music Band": {
+        "description": "Join the school band and perform at events",
+        "schedule": "Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 12,
+        "participants": []
+    },
+    # Additional intellectual activities
+    "Science Club": {
+        "description": "Conduct experiments and explore scientific concepts",
+        "schedule": "Mondays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Robotics Team": {
+        "description": "Design, build, and program robots for competitions",
+        "schedule": "Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 8,
+        "participants": []
+    },
     # Intellectual activities
     "Math Olympiad": {
         "description": "Prepare for and participate in math competitions",
